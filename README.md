@@ -34,6 +34,3 @@ Curiosamente a companhia Brave Software pertence antigo CTO da Mozilla Brendan E
 Se você leu o artigo até aqui, por que não experimentar o navegador? 
 
 [Clique aqui](https://brave.com/fel628) para ir para a página de download do Brave. 
-
-
-Luiz Felipe Zarco
