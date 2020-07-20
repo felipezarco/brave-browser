@@ -1,6 +1,8 @@
 # Navegador Brave
 
-Os navegadores são a porta de entrada de qualquer usuário para consumir conteudo na internet. Empresas como a Google faturam fortunas mesmo oferecendo software gratuitamente, pois o verdadeiro valor está nos dados de navegação do usuário. O Google Chrome assumiu uma posição que eu acreditava ser insubstituível (pelo menos no curto prazo). Contudo, hoje eu uso o [Brave Browser](https://brave.com/fel628) como meu navegador de internet e quero compartilhar alguns dos motivos:
+Os navegadores são a porta de entrada de qualquer usuário para consumir conteudo na internet. Empresas como a Google faturam fortunas mesmo oferecendo software gratuitamente, pois o verdadeiro valor está nos dados de navegação do usuário. O Google Chrome assumiu uma posição que eu acreditava ser insubstituível (pelo menos no curto prazo). 
+
+Contudo, hoje eu uso o [Brave Browser](https://brave.com/fel628) como meu navegador de internet e quero compartilhar alguns dos motivos:
 
 #### 1 - Segurança e Privacidade
 
@@ -29,4 +31,6 @@ Você pode importar todas as suas configurações, favoritos e extensões do Goo
 Curiosamente a companhia Brave Software pertence antigo CTO da Mozilla Brendan Eich, que também criou o JavaScript, que hoje é a linguagem de programação predominante na web.
 
 
-Se você leu o artigo até aqui, por que não experimentar o navegador? [Clique aqui](https://brave.com/fel628) para ir para a página de download do Brave. 
+Se você leu o artigo até aqui, por que não experimentar o navegador? 
+
+[Clique aqui](https://brave.com/fel628) para ir para a página de download do Brave. 
